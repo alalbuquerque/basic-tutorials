@@ -1,4 +1,4 @@
-# Tutoriais básicos
+# Quick tutorials
 
 
 ## Create a basic app with yarn
