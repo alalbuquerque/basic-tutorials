@@ -1,6 +1,5 @@
-# basic-tutorials
+# Tutoriais básicos
 
-Repo with basic tutorials about environment and stacks for web applications
 
 ## Create a basic app with yarn
 
