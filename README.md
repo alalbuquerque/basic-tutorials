@@ -2,9 +2,6 @@
 
 Repo with basic tutorials about environment and stacks for web applications
 
-[Create react app with yarn](https://github.com/alalbuquerque/basic-tutorials/blob/master/create-react-app-yarn)
-
-
 ## Create a basic app with yarn
 
 After trying several times to create a basic react app, I gave up and surrendered to yarn create for my applications
